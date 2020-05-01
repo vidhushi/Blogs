@@ -1,10 +1,10 @@
 ---
 template: BlogPost
 path: /create-your-own-blog-using-gatsby
-date: 2020-04-29T19:47:20.473Z
+date: 2020-05-01T04:22:44.712Z
 title: Create your own blog using Gatsby
 thumbnail: /assets/website-rebuilt-in-gatsbyjs.png
-metaDescription: Hope you enjoy articile :) !
+metaDescription: Hope you enjoy the article :)!
 ---
 By using Gatsby you can easily create your own blog site in very less time. So here in this blog we learn how we create it.
 
