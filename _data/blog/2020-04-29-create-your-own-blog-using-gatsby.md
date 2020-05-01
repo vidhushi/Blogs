@@ -10,11 +10,11 @@ By using Gatsby you can easily create your own blog site in very less time. So h
 
 **To Create Your Own First Blog you have to follow some easy steps :-** 
 
-**Step 1** : - First you have to go on this link.** <https://www.gatsbyjs.org/starters/?v=2>** the official website of Gatsby.
+> **Step 1** : - First you have to go on this link <https://www.gatsbyjs.org/starters/?v=2> the official website of Gatsby.
 
 ![Screenshot-1](/assets/first.png "Screenshot-1")
 
-**Step 2** :- Now Select any one layout which you like for your among the all and click on the button **Netlify** which you can easily see at the end of the layout.
+**Step 2** :- Now Select any one layout which you like for your site among the all and click on the button **Netlify** which you can easily see at the end of the layout.
 
 ![Screenshot-2](/assets/second.png "Screenshot-2")
 
@@ -63,22 +63,26 @@ After the application run successfully you see something like this in your vs co
 
 ![Screenshot-7](/assets/nine.png "Screenshot-7")
 
-To see your blog site paste the http://localhost:8000/
+To see your blog site paste the <http://localhost:8000/> in the browser and you see your application like this.
+
+![Screenshot-8](/assets/eight.png "Screenshot-8")
+
+
 
 **Step 9** :- If you want to perform any changes in it then do these changes freely.
 
 Like here i want to change the first heading " Sky Lite" by "My first Blog" and change the description line.
 
-![Screenshot-8](/assets/ten.png "Screenshot-8")
+So to change it go to vs code.and open the file gatsby-config.js. If you want to perform changes in another file so go to that file and perform changes.
 
-So to change it go to vs code.and open the file gatsby-config.js. If you want to perform changes in another file so to that and perform changes.
+This is how  my file look before changes.
+
+![Screenshot-9](/assets/ten.png "Screenshot-9")
 
 **Step 10**: - After Changes my file look like this. 
 
-\    
+![Screenshot-10](/assets/elevensecond.png "Screenshot-10")
 
-![Screenshot-9](/assets/elevensecond.png "Screenshot-9")
+  After perform all the changes save the file and run it again.This is how my application look..
 
-  This is how my application look..
-
-![Screenshot-10](/assets/eleventhree.png "Screenshot-10")
+![Screenshot-11](/assets/eleventhree.png "Screenshot-11")
